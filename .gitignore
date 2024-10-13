@@ -1,0 +1,27 @@
+# Virtual Environment
+   .venv/
+   env/
+   venv/
+
+   # Python cache files
+   __pycache__/
+   *.py[cod]
+
+   # IDE specific files
+   .vscode/
+   .idea/
+
+   # Sensitive information
+   *.log
+   *.pot
+   *.pyc
+   local_settings.py
+
+   # OS generated files
+   .DS_Store
+   .DS_Store?
+   ._*
+   .Spotlight-V100
+   .Trashes
+   ehthumbs.db
+   Thumbs.db
