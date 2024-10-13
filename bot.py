@@ -5,7 +5,7 @@ import asyncio
 from aiogram import Bot, Dispatcher, types
 from aiogram.filters.command import Command
 
-TOKEN = "7732949922:AAERQbyil4x2XhRjtGeEJiWwwZ9q1RHJceQ"
+TOKEN = "your tocken"
 MSG = "Did you program today, {}?"
 
 bot = Bot(token=TOKEN)
